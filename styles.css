@@ -58,3 +58,20 @@
   text-align: center;
   font-size: 23px;
 }
+@media screen and (max-width: 900px) {
+  .container {
+    padding: 10px;
+  }
+
+  .box {
+    padding: 20px;
+  }
+
+  .nameClient {
+    font-size: 24px;
+  }
+
+  .cards button {
+    font-size: 80px;
+  }
+}
